@@ -1,0 +1,16 @@
+{
+  "name": "simple-http-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTTP server",
+  "main": "hw4.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "supertest": "^6.0.1",
+    "jasmine": "^3.6.0"
+  },
+  "devDependencies": {},
+  "author": "Ritwika Das",
+  "license": "ISC"
+}
